@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFX.Core.Quant", "MFX.Core.Quant\MFX.Core.Quant.csproj", "{7E1866E8-C75E-45F4-B83D-AF6E6EAEAEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFX.Core.Quant.UnitTests", "MFX.Core.Quant.UnitTests\MFX.Core.Quant.UnitTests.csproj", "{CD2AA843-B1C3-4F17-9ACB-C1857B7C9AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1866E8-C75E-45F4-B83D-AF6E6EAEAEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1866E8-C75E-45F4-B83D-AF6E6EAEAEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1866E8-C75E-45F4-B83D-AF6E6EAEAEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1866E8-C75E-45F4-B83D-AF6E6EAEAEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2AA843-B1C3-4F17-9ACB-C1857B7C9AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2AA843-B1C3-4F17-9ACB-C1857B7C9AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2AA843-B1C3-4F17-9ACB-C1857B7C9AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2AA843-B1C3-4F17-9ACB-C1857B7C9AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A17EF10-6BE8-4950-B422-34B0340D83AF}
+	EndGlobalSection
+EndGlobal
